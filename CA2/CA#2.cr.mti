@@ -1,0 +1,182 @@
+C:/Users/ROG/Downloads/RTL/RTL/dp.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/dp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/DataPath.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/topdesign.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/topdesign.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_design
+
+Top level modules:
+	top_design
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/RISC_V_sigle_cycle.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/RISC_V_sigle_cycle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_sigle_cycle
+
+Top level modules:
+	RISC_V_sigle_cycle
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Adder.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/datapath.v {2 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PortNum_Shr
+-- Compiling module Port_cnt
+** Warning: C:/Users/ROG/Downloads/RTL/RTL/datapath.v(21): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/RTL/RTL/datapath.v(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module DataNum_Shr
+-- Compiling module DataNum_cnt
+-- Compiling module DataTrans_Cnt
+-- Compiling module Demux
+-- Compiling module SSD
+
+Top level modules:
+	PortNum_Shr
+	Port_cnt
+	DataNum_Shr
+	DataNum_cnt
+	DataTrans_Cnt
+	Demux
+	SSD
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/1TB.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/1TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnePulserTB
+
+Top level modules:
+	OnePulserTB
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/RISC_V_TB.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/RISC_V_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_TB
+
+Top level modules:
+	RISC_V_TB
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/cn.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/cn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Mux_2_to_1.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Mux_2_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2_to_1
+
+Top level modules:
+	Mux_2_to_1
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/topdesignTB.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/topdesignTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tdTB
+
+Top level modules:
+	tdTB
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/IM.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/IM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Mux_4_to_1.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Mux_4_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_4_to_1
+
+Top level modules:
+	Mux_4_to_1
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Pc_reg.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Pc_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pc_reg
+
+Top level modules:
+	Pc_reg
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Main_controller.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Main_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_controller
+
+Top level modules:
+	Main_controller
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/DM.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/DM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_memory
+
+Top level modules:
+	Data_memory
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/ALU.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ROG/Downloads/RTL/RTL/1.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/RTL/RTL/1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnePulser
+
+Top level modules:
+	OnePulser
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Register_file.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Register_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/ImmExt.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/ImmExt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtension
+
+Top level modules:
+	ImmExtension
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/Controller.v {1 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v {2 {vlog -work work -stats=none C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_controller
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(21): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(24): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(26): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(27): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(28): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(29): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ROG/Downloads/CA#02/CA#02/ALU_controller.v(30): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	ALU_controller
+
+} {} {}}

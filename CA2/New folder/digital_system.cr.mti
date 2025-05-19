@@ -1,0 +1,69 @@
+{D:/4th term/az_manteghi/3_session/top_DDS.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/top_DDS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_DDS
+
+Top level modules:
+	top_DDS
+
+} {} {}} {D:/4th term/az_manteghi/3_session/TtopTB.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/TtopTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FG_TB
+
+Top level modules:
+	FG_TB
+
+} {} {}} {D:/4th term/az_manteghi/3_session/PhaseAccumulator.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/PhaseAccumulator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/4th term/az_manteghi/3_session/amp.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/amp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module amp_scale
+
+Top level modules:
+	amp_scale
+
+} {} {}} {D:/4th term/az_manteghi/3_session/top_WFG.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/top_WFG.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_WFG
+
+Top level modules:
+	top_WFG
+
+} {} {}} {D:/4th term/az_manteghi/3_session/WaveFormGenerator.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/WaveFormGenerator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_8_bit
+-- Compiling module multiplexer
+-- Compiling module converter
+
+Top level modules:
+	counter_8_bit
+	multiplexer
+	converter
+
+} {} {}} {D:/4th term/az_manteghi/3_session/FreqSelector.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/FreqSelector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_9_bit
+
+Top level modules:
+	counter_9_bit
+
+} {} {}} {D:/4th term/az_manteghi/3_session/TOP.v} {1 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/TOP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Function_generator
+
+Top level modules:
+	Function_generator
+
+} {} {}} {D:/4th term/az_manteghi/3_session/DDSUnit.v} {2 {vlog -work work -stats=none {D:/4th term/az_manteghi/3_session/DDSUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+** Warning: D:/4th term/az_manteghi/3_session/DDSUnit.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	datapath
+
+} {} {}}

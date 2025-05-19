@@ -1,0 +1,126 @@
+{D:/4th term/DigitalSystem/CAs/CA#02new/IM.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/IM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_4_to_1
+
+Top level modules:
+	Mux_4_to_1
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pc_reg
+
+Top level modules:
+	Pc_reg
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_controller
+
+Top level modules:
+	Main_controller
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/DM.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/DM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_memory
+
+Top level modules:
+	Data_memory
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Branch_controller
+
+Top level modules:
+	Branch_controller
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/ALU.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Controller.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtension
+
+Top level modules:
+	ImmExtension
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v} {2 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_controller
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(21): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(24): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(26): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(27): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(28): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(29): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v(30): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	ALU_controller
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_sigle_cycle
+
+Top level modules:
+	RISC_V_sigle_cycle
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Adder.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_TB
+
+Top level modules:
+	RISC_V_TB
+
+} {} {}} {D:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v} {1 {vlog -work work -stats=none {D:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2_to_1
+
+Top level modules:
+	Mux_2_to_1
+
+} {} {}}

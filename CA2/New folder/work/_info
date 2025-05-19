@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/4th term/az_manteghi/3_session
+vAdder
+Z0 !s110 1715166169
+!i10b 1
+!s100 =N<<0a2NT[>5@3NeAdkDC0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7<CeaJ9:QP^6EFe6oiMN72
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/4th term/DigitalSystem/CAs/CA#02new/New folder
+Z4 w1715160286
+8D:/4th term/DigitalSystem/CAs/CA#02new/Adder.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Adder.v
+!i122 268
+L0 2 6
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1715166169.000000
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 3?jZ6YohT4[cdldia:aKc3
+R1
+IVOXBLLKG0TM8@m_6C5:bl0
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/ALU.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/ALU.v
+!i122 269
+L0 2 36
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vALU_controller
+R0
+!i10b 1
+!s100 3VQMkajT4[=6]aedh@DOF1
+R1
+Ih24Qnf^@oHKkIMzJdfHaF1
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v
+!i122 270
+L0 6 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/ALU_controller.v|
+!i113 1
+R7
+R8
+n@a@l@u_controller
+vBranch_controller
+Z9 !s110 1715166170
+!i10b 1
+!s100 7FNKV_POgLz@Wfc8i^Z1X1
+R1
+I6<m]E45OdZz9Ka?eSU3=c3
+R2
+R3
+w1715165682
+8D:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v
+!i122 271
+L0 6 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Branch_controller.v|
+!i113 1
+R7
+R8
+n@branch_controller
+vController
+R9
+!i10b 1
+!s100 ;^=2Jh[RXkY]zdS^B8Oc81
+R1
+IEnhLP;V01FL[R2f<IhffG2
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Controller.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Controller.v
+!i122 272
+L0 2 26
+R5
+r1
+!s85 0
+31
+Z10 !s108 1715166170.000000
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Controller.v|
+!i113 1
+R7
+R8
+n@controller
+vData_memory
+R9
+!i10b 1
+!s100 Y=D^]iko6BD:=EzCnADk71
+R1
+IHE85YDnKil8fNL`Nm;D9V0
+R2
+R3
+w1715165845
+8D:/4th term/DigitalSystem/CAs/CA#02new/DM.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/DM.v
+!i122 274
+L0 2 17
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/DM.v|
+!i113 1
+R7
+R8
+n@data_memory
+vDatapath
+R9
+!i10b 1
+!s100 `PikJUNS9l9[g]DSS10OJ3
+R1
+I<Um@o2knMdazmK>Q^RA_j0
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v
+!i122 273
+L0 2 41
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/DataPath.v|
+!i113 1
+R7
+R8
+n@datapath
+vImmExtension
+R9
+!i10b 1
+!s100 `eG0_Neo@aC:fY0VOD[;X3
+R1
+I_?7aYj3K^Y2>HYQ24TAmI0
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v
+!i122 276
+L0 2 19
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/ImmExt.v|
+!i113 1
+R7
+R8
+n@imm@extension
+vInstruction_memory
+R9
+!i10b 1
+!s100 V@PFeVR_P0TjM82JVT64Y1
+R1
+I@@E2CUPK[ZnGZHVc:R_nm3
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/IM.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/IM.v
+!i122 275
+L0 2 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/IM.v|
+!i113 1
+R7
+R8
+n@instruction_memory
+vMain_controller
+R9
+!i10b 1
+!s100 e;8j?U3WiHhNcZ1;kOQCW0
+R1
+I1o20Y66^6>?Kh4YIlm42@3
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v
+!i122 277
+L0 11 66
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Main_controller.v|
+!i113 1
+R7
+R8
+n@main_controller
+vMux_2_to_1
+R9
+!i10b 1
+!s100 g30ke>CZJ:A473[CJJ[8E1
+R1
+IZ;KZcIXYfNdSQhSSlJbDE0
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v
+!i122 278
+L0 3 7
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Mux_2_to_1.v|
+!i113 1
+R7
+R8
+n@mux_2_to_1
+vMux_4_to_1
+R9
+!i10b 1
+!s100 M:4F=HL[LFn;HX`UgDg5@3
+R1
+I5blV6EQo=QiXQ8kl6___L1
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v
+!i122 279
+L0 3 11
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Mux_4_to_1.v|
+!i113 1
+R7
+R8
+n@mux_4_to_1
+vPc_reg
+R9
+!i10b 1
+!s100 16coz<_AgO58M?zInM5U?2
+R1
+Ik=_P:1d66?gUdALf42>7l2
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v
+!i122 280
+Z11 L0 2 12
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Pc_reg.v|
+!i113 1
+R7
+R8
+n@pc_reg
+vRegister_file
+Z12 !s110 1715166171
+!i10b 1
+!s100 f>EXbL_5>=LKBeHElOb:i0
+R1
+IV7_S?nMQXhYU0W8La9YgM2
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v
+!i122 281
+L0 2 20
+R5
+r1
+!s85 0
+31
+Z13 !s108 1715166171.000000
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/Register_file.v|
+!i113 1
+R7
+R8
+n@register_file
+vRISC_V_sigle_cycle
+R12
+!i10b 1
+!s100 kBdigcabciQYIG14IokGl1
+R1
+IVjn7Vgg9>L8k[XbgG5JQg3
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v
+!i122 282
+L0 2 15
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_sigle_cycle.v|
+!i113 1
+R7
+R8
+n@r@i@s@c_@v_sigle_cycle
+vRISC_V_TB
+R12
+!i10b 1
+!s100 lHM1gLF_mI7^4@f^NhZz60
+R1
+IUk240:75BA8<IoPUgHaaU0
+R2
+R3
+R4
+8D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v
+FD:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v
+!i122 283
+R11
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/4th term/DigitalSystem/CAs/CA#02new/RISC_V_TB.v|
+!i113 1
+R7
+R8
+n@r@i@s@c_@v_@t@b
